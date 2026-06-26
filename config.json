@@ -10,7 +10,7 @@
   "css": "./custom.css",
   "footer": "Copyright desgart.design",
   "usage-stats": false
-}
+},
 {
   "input": "./gallery/tdfm",
   "output": "./build_output",
